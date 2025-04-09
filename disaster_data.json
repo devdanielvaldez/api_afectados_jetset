@@ -1,0 +1,288 @@
+{
+  "fallecidos": [
+    "Andrés Pichardo",
+    "Aneuris Viña",
+    "Carolina Pérez Flores",
+    "Cheila Berroa",
+    "Daniel Taveras Polanco",
+    "Diego Armando Severino",
+    "Élva Gálvez",
+    "Génesis de León",
+    "Héctor Bienvenido Peguero Ramírez",
+    "Indira Disla Méndez",
+    "Lorenzo Ricardo",
+    "Lourdes Ricard",
+    "Luis Emilio Solís",
+    "María Isabel Guerrero",
+    "Nelsy Milagros Cruz",
+    "Nidia Carolina Solano",
+    "Paulino Lorenzo",
+    "Pedro Cepeda",
+    "Ramón Alberto Santana Benítez",
+    "Randy Alexander Rodríguez",
+    "Vianka Reyes",
+    "Julio Cesar Valera",
+    "Aracelis Rodríguez",
+    "Cesar López Gronell",
+    "Desnaud Wilmord",
+    "Fray Luis Rosario",
+    "Isabel Betania Cabrera",
+    "Miguel Ángel Pérez Suarez",
+    "Nelsida Sánchez",
+    "Ruth Delania Santana",
+    "Tony Enrique Blanco Cabrera",
+    "Yaris Francisco Holguin Arias",
+    "Rubby Perez",
+    "Octavio Dotel"
+  ],
+  "pacientes_hospitales": {
+    "Hospital Darío Contreras": [
+      {
+        "nombre": "Giselle Guerrero",
+        "edad": 35
+      },
+      {
+        "nombre": "Pedro Espinal"
+      },
+      {
+        "nombre": "Ruddy Alonzo",
+        "edad": 44
+      },
+      {
+        "nombre": "Viviana Díaz",
+        "edad": 34
+      },
+      {
+        "nombre": "Marisol Chalas",
+        "edad": 58
+      },
+      {
+        "nombre": "Pamela Montoya",
+        "edad": 33
+      },
+      {
+        "nombre": "Douglas García",
+        "edad": 42
+      },
+      {
+        "nombre": "Carlos Martínez",
+        "edad": 42
+      },
+      {
+        "nombre": "Carolina Rodríguez",
+        "edad": 43
+      },
+      {
+        "nombre": "Elianta Quintero"
+      },
+      {
+        "nombre": "José Candelario",
+        "edad": 55
+      },
+      {
+        "nombre": "Jonathan Natera"
+      },
+      {
+        "nombre": "Katherine Coronado"
+      },
+      {
+        "nombre": "Lucía Castilla",
+        "edad": 43
+      },
+      {
+        "nombre": "Ingrid Reyes",
+        "edad": 64
+      },
+      {
+        "nombre": "Giselle Ogando"
+      },
+      {
+        "nombre": "Víctor de la Cruz",
+        "edad": 67
+      },
+      {
+        "nombre": "Martin Bautista",
+        "edad": 50
+      },
+      {
+        "nombre": "Simeón Mueses",
+        "edad": 42
+      },
+      {
+        "nombre": "Manuela Vólquez"
+      },
+      {
+        "nombre": "Evelin Mariela Navarro de León",
+        "edad": 35
+      }
+    ],
+    "Hospital Marcelino Vélez Santana": [
+      {
+        "nombre": "Milagros Acosta",
+        "edad": 27
+      },
+      {
+        "nombre": "Christian Marques",
+        "edad": 40
+      },
+      {
+        "nombre": "Marla Urbáez",
+        "edad": 21
+      },
+      {
+        "nombre": "Karla Sánchez",
+        "edad": 31
+      },
+      {
+        "nombre": "Ricardo Archstore Lir"
+      },
+      {
+        "nombre": "Juliana V. Castillo Vargas"
+      },
+      {
+        "nombre": "Ivelisse Reynoso",
+        "edad": 53
+      },
+      {
+        "nombre": "Ricardo Gilbert Julián",
+        "edad": 59
+      },
+      {
+        "nombre": "Jorge Santana"
+      },
+      {
+        "nombre": "Brenda Ortega"
+      }
+    ],
+    "Hospital Vinicio Calventi": [
+      {
+        "nombre": "Víctor Manuel de la Cruz",
+        "edad": 67
+      }
+    ],
+    "Hospital Ney Arias Lora": [
+      {
+        "nombre": "Kevin Patricio",
+        "edad": 42
+      },
+      {
+        "nombre": "Elena Almánzar",
+        "edad": 49
+      },
+      {
+        "nombre": "Danilda Amado Figueroa",
+        "edad": 31
+      },
+      {
+        "nombre": "Héctor Brito",
+        "edad": 34
+      },
+      {
+        "nombre": "Jesús Ramírez",
+        "edad": 35
+      },
+      {
+        "nombre": "Dominicana Acosta",
+        "edad": 48
+      },
+      {
+        "nombre": "Feliz Manuel Soto",
+        "edad": 53
+      },
+      {
+        "nombre": "Elsa Espinal Arias",
+        "edad": 31
+      },
+      {
+        "nombre": "Rosbely Pérez",
+        "edad": 45
+      },
+      {
+        "nombre": "Ana Montero",
+        "edad": 32
+      },
+      {
+        "nombre": "Juan Arturo Soto",
+        "edad": 48
+      },
+      {
+        "nombre": "Germán Jorge",
+        "edad": 38
+      },
+      {
+        "nombre": "Geraldine Bastardo",
+        "edad": 37
+      },
+      {
+        "nombre": "José Abreu Santana",
+        "edad": 26
+      },
+      {
+        "nombre": "Gilberto Encarnación",
+        "edad": 36
+      },
+      {
+        "nombre": "Jenine Mena",
+        "edad": 40
+      },
+      {
+        "nombre": "Luis Alberto Saavedra",
+        "edad": 56
+      },
+      {
+        "nombre": "Alba Montero",
+        "edad": 33
+      },
+      {
+        "nombre": "Victor Manuel Rodríguez",
+        "edad": 31
+      },
+      {
+        "nombre": "Anny Montero"
+      },
+      {
+        "nombre": "Lenin Manuel Díaz"
+      },
+      {
+        "nombre": "Félix Soto",
+        "edad": 53
+      },
+      {
+        "nombre": "Moisés Torres Pión",
+        "edad": 31
+      },
+      {
+        "nombre": "Francisco Aurelio Martínez",
+        "edad": 44
+      },
+      {
+        "nombre": "Alba María Rojas",
+        "edad": 44
+      },
+      {
+        "nombre": "Danilda Figueroa",
+        "edad": 29
+      }
+    ],
+    "Hospital Moscoso Puello": [
+      {
+        "nombre": "Yaitza Marín",
+        "edad": 56
+      }
+    ],
+    "Hospital Salvador B. Gautier": [
+      {
+        "nombre": "Jennifer Taveras",
+        "edad": 24
+      },
+      {
+        "nombre": "Carlos Rolando Cepín Martínez",
+        "edad": 38
+      },
+      {
+        "nombre": "Bartolo Reyes",
+        "edad": 55
+      }
+    ]
+  }
+}
